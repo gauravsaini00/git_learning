@@ -1,36 +1,25 @@
-#You Are My Life" Lyrics:-
+#1 git clone  
 
-O Allah!
-You're the light that shines above
-You're the reason I never give up
-You're The One I try for, live my life for
-Give up all I have
-You're the melody, You're the key
-All the inspiration I need
-And when times get tough
-I know You'll stand by me
- 
-You are the love I need
-The One who is guiding me
-And You know my destiny
-For You are The Light
- 
-CHORUS:
-And You are my life
-Oh oh oh
+three stages of git 
+working
+staging index
+repository 
 
-tujhe sochta hu main shaamo subha 
-O Allah!
-Your words light up my heart
-This connection I've felt from the start
-I’ll never lose sight of my dreams
-Without You where would I be?
-And although I feel like I'm 
-A million miles away from home
-I can lose all that I have and when I feel the pain
-I know that I can count on You 
+2 git status 
+3 git diff 
+4 git add 
+5 git reset HEAD or git restore --staged 
 
-You are the love I need
-The One who is guiding me
-And You know my destiny
-For You are The Light
+6 git config --global user.email "you@example.com"
+  git config --global user.name "Your Name
+7 git commit 
+8 git push 
+
+if you get this error 
+
+ git add README.md
+warning: in the working copy of 'README.md', LF will be replaced by CRLF the next time Git touches it
+
+use command :-  git config --global core.autoclf true
+
+
