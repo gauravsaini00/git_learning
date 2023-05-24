@@ -17,8 +17,9 @@ For You are The Light
  
 CHORUS:
 And You are my life
-Oh oh oh 
- 
+Oh oh oh
+
+tujhe sochta hu main shaamo subha 
 O Allah!
 Your words light up my heart
 This connection I've felt from the start
