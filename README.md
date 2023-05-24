@@ -1,4 +1,4 @@
-#1 git clone  
+1 git clone  
 
 three stages of git 
 working
@@ -20,6 +20,13 @@ if you get this error
  git add README.md
 warning: in the working copy of 'README.md', LF will be replaced by CRLF the next time Git touches it
 
-use command :-  git config --global core.autoclf true
+use command :-  git config --global core.autoclf true for crlf to LF / fales 
+
+9 git log 
+10 git checkout    :- to go/create to new branch     git checkout -b new branch name 
+
+11 git commit -m "addind file1"
+
+12 git checkout main    :- go  back to main mranch 
 
 
