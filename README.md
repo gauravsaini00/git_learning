@@ -28,5 +28,6 @@ use command :-  git config --global core.autoclf true for crlf to LF / fales
 11 git commit -m "addind file1"
 
 12 git checkout main    :- go  back to main mranch 
-
+15 git pull
+16 git k 
 
