@@ -29,4 +29,5 @@ use command :-  git config --global core.autoclf true for crlf to LF / fales
 
 12 git checkout main    :- go  back to main mranch 
 
-
+13 git fetch 
+14 git merge  origin/main
